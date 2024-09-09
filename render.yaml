@@ -17,8 +17,6 @@ services:
         value: production
       - key: RACK_ENV
         value: production
-    branches:
-      - main
 
 databases:
   - name: piazza-db
