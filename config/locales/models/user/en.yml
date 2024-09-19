@@ -1,0 +1,11 @@
+en:
+  welcome: hello,
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            password:
+              too_short: must be at least 8 characters long
+            password_confirmation:
+              confirmation: passwords to not match
